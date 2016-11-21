@@ -52,7 +52,7 @@ Optional Attributes
 
 * cell (mandatory)= Cell Number or range, with :
 
-* class=”custom class name or names here
+* class=custom class name or names here
 
 For help creating an API key to use with this plugin, either check out the settings page in plugin, or the FAQ tab here.
 
