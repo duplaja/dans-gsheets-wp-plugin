@@ -1,5 +1,4 @@
 <?php
-
 /**
 * Plugin Name: Dan's GSheets Data Embedder
 * Plugin URI: https://www.wptechguides.com
