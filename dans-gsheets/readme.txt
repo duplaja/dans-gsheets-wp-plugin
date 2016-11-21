@@ -42,7 +42,7 @@ Shortcodes:
 
 * Single Cell: `[dansheet file=1 sheetname="Sheet1" cell=A1 class="gsheets-special"]`
 
-*Range of Cells: `[dansheet file=1 sheetname=Sheet1 cell=A1:C2 theaders="Col 1,Col 2,Col 3" class="gsheets-special2"]`
+* Range of Cells: `[dansheet file=1 sheetname=Sheet1 cell=A1:C2 theaders="Col 1,Col 2,Col 3" class="gsheets-special2"]`
 
 Optional Attributes
 
@@ -53,6 +53,8 @@ Optional Attributes
 * cell (mandatory)= Cell Number or range, with :
 
 * class=custom class name or names here
+
+* theaders = Comma seperated list of column headers, in order, for range view (optional)
 
 For help creating an API key to use with this plugin, either check out the settings page in plugin, or the FAQ tab here.
 

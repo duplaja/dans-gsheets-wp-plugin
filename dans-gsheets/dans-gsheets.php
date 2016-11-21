@@ -66,7 +66,8 @@ Optional Attributes
 <li>file=# (number of the Google Doc you have set in the settings page)
 <li>sheetname= name of sheet in doc</li>
 <li>cell= Cell Number or range, with : </li>
-<li>class=”custom class name or names here </li>
+<li>class=custom class name or names here </li>
+<li>theaders= comma seperated list of table column headers, for range view (optional)</li> 
 </ul>
 <br>
 To create API key, visit <a href=\"https://console.developers.google.com/\" target=\"_blank\">Google Developers Console</a> Then, follow bellow;
