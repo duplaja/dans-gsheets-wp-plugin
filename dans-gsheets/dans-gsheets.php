@@ -1,10 +1,10 @@
 <?php
 
 /**
-* Plugin Name: Dans Google Sheets Plugin
+* Plugin Name: Dan's GSheets Data Embedder
 * Plugin URI: https://www.wptechguides.com
-* Description: A custom Amazon S3 File Browser
-* Version: 0.1
+* Description: A custom Google Sheets Data Embedder
+* Version: 1.0
 * Author: Dan Dulaney
 * Author URI: https://www.convexcode.com
 **/
