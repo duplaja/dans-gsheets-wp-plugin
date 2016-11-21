@@ -12,7 +12,7 @@ Dan's GSheets is used to embed Google Sheets data from individual cells or range
 
 == Description ==
 
-Dan's Google Sheets Data Embedder was created out of a need for non-technical users to move complex calculations outside WordPress and into a more familiar spreedsheet environment, as well as the ability to share just the pieces of information needed from a spreadsheet rather than sharing the entire document.
+Dan's Google Sheets Data Embedder was created out of a need for non-technical users to move complex calculations outside WordPress and into a more familiar spreadsheet environment, as well as the ability to share just the pieces of information needed from a spreadsheet rather than sharing the entire document.
 
 Dan's GSheets allows you to embed the values for either an individual cell, or for ranges directly via shortcode. No need to import data or manage it directly in WordPress. All you need is a public Google Sheets Document (or multiple!) and a free, easy to get API key.
 
