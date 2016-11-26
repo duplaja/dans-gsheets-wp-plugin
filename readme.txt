@@ -16,6 +16,16 @@ Dan's Google Sheets Data Embedder was created out of a need for non-technical us
 
 Dan's GSheets allows you to embed the values for either an individual cell, or for ranges directly via shortcode. No need to import data or manage it directly in WordPress. All you need is a public Google Sheets Document (or multiple!) and a free, easy to get API key.
 
+Suggested Uses
+
+* Offload all of your complex calculations to Google Sheets! Take data from Google forms, or wherever else you wish, and just display the results
+
+* Have a non-techinical client or user that needs to be able to update a specific message? Just map that spot to a Google Sheets Cell via shortcode, and share that document with them with edit abilities
+
+* Create a nice front end in WordPress, and update live scores via Google Sheets as a spreadsheet
+
+* Did you come up with something else? We'd love to hear about it! Share in your review or via a message on my site.
+
 Features
 
 * Displays public Google Sheet Document data in an easy-to-format view
@@ -58,6 +68,7 @@ Optional Attributes
 
 For help creating an API key to use with this plugin, either check out the settings page in plugin, or the FAQ tab here.
 
+To see other plugins like this, or tips on how these are built, check out [WP Tech Guides](https://www.wptechguides.com/).
 
 == Installation ==
 
