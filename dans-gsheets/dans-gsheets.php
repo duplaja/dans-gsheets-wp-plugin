@@ -143,10 +143,7 @@ function dansheet_display($atts) {
 		return $error;
 	}
 
-	//$sheets_api_key = 'AIzaSyBBT4zkw7147on7ZhKjf6wacYrt1VMCIjI';
-	//$sheet_id = '1yGWB7wHSZhu9pXbVODWxCQwskLCaXTlvISYmjsnfa6g';
-
-	//https://sheets.googleapis.com/v4/spreadsheets/$sheet_id/values/Sheet1!A1?&key=$sheets_api_key
+	
 
 	$cell_lookup = new WP_Http(); //WP_Http function to connect
 
