@@ -3,7 +3,7 @@ Contributors: duplaja
 Donate link: https://www.wptechguides.com/donate/
 Tags: embed, Google Sheets, data, gsheets, spreadsheet, dan
 Requires at least: 4.0.1
-Tested up to: 4.6.1
+Tested up to: 4.7.0
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -120,6 +120,8 @@ Once you have set the folder as public, you can find the id with the following:
 Depends on Google Sheets JSON API v4
 
 == Changelog ==
+= 1.1 = 
+* Updated supported version to 4.7.0 after testing
 
 = 1.0 =
 * Initial Plugin Release

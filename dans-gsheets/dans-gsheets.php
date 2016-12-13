@@ -3,7 +3,7 @@
 * Plugin Name: Dan's GSheets Data Embedder
 * Plugin URI: https://www.wptechguides.com
 * Description: A custom Google Sheets Data Embedder
-* Version: 1.0
+* Version: 1.1
 * Author: Dan Dulaney
 * Author URI: https://www.convexcode.com
 **/
